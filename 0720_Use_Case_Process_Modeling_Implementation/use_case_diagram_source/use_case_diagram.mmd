@@ -1,0 +1,19 @@
+flowchart LR
+    Student[宿舍學生]
+    Manager[宿舍管理員]
+    Technician[維修人員]
+
+    subgraph System[校園宿舍報修、派工與維修追蹤系統]
+        UC1([提交報修])
+        UC2([查看待處理清單])
+        UC3([派工給維修人員])
+        UC4([查看已派工任務])
+        UC5([完成維修回報])
+    end
+
+    Student --> UC1
+    Manager --> UC2
+    Manager --> UC3
+    Technician --> UC4
+    Technician --> UC5
+    UC3 -. 依條件更新案件狀態 .-> UC4

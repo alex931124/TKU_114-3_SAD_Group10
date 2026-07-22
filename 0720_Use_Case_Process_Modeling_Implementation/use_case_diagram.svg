@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 1100 700">
+  <rect width="1100" height="700" fill="#ffffff"/>
+  <text x="550" y="40" text-anchor="middle" font-size="28" font-family="Microsoft JhengHei, Arial" font-weight="700">校園宿舍報修、派工與維修追蹤系統</text>
+  <rect x="60" y="80" width="980" height="560" rx="16" fill="#f8fbff" stroke="#3b82f6" stroke-width="2"/>
+  <text x="90" y="110" font-size="18" font-family="Microsoft JhengHei, Arial" font-weight="700">System Boundary</text>
+
+  <rect x="130" y="165" width="140" height="70" rx="10" fill="#e0f2fe" stroke="#2563eb"/>
+  <text x="200" y="200" text-anchor="middle" font-size="20" font-family="Microsoft JhengHei, Arial">宿舍學生</text>
+
+  <rect x="130" y="310" width="140" height="70" rx="10" fill="#e0f2fe" stroke="#2563eb"/>
+  <text x="200" y="345" text-anchor="middle" font-size="20" font-family="Microsoft JhengHei, Arial">宿舍管理員</text>
+
+  <rect x="130" y="455" width="140" height="70" rx="10" fill="#e0f2fe" stroke="#2563eb"/>
+  <text x="200" y="490" text-anchor="middle" font-size="20" font-family="Microsoft JhengHei, Arial">維修人員</text>
+
+  <ellipse cx="530" cy="175" rx="120" ry="55" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="530" y="182" text-anchor="middle" font-size="18" font-family="Microsoft JhengHei, Arial">提交報修</text>
+
+  <ellipse cx="530" cy="310" rx="120" ry="55" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="530" y="317" text-anchor="middle" font-size="18" font-family="Microsoft JhengHei, Arial">查看待處理清單</text>
+
+  <ellipse cx="530" cy="445" rx="120" ry="55" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="530" y="452" text-anchor="middle" font-size="18" font-family="Microsoft JhengHei, Arial">派工給維修人員</text>
+
+  <ellipse cx="790" cy="175" rx="120" ry="55" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+  <text x="790" y="182" text-anchor="middle" font-size="18" font-family="Microsoft JhengHei, Arial">查看已派工任務</text>
+
+  <ellipse cx="790" cy="310" rx="120" ry="55" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+  <text x="790" y="317" text-anchor="middle" font-size="18" font-family="Microsoft JhengHei, Arial">完成維修回報</text>
+
+  <line x1="270" y1="200" x2="410" y2="175" stroke="#1f2937" stroke-width="2"/>
+  <line x1="270" y1="345" x2="410" y2="310" stroke="#1f2937" stroke-width="2"/>
+  <line x1="270" y1="490" x2="410" y2="445" stroke="#1f2937" stroke-width="2"/>
+  <line x1="650" y1="175" x2="670" y2="175" stroke="#1f2937" stroke-width="2"/>
+  <line x1="650" y1="310" x2="670" y2="310" stroke="#1f2937" stroke-width="2"/>
+  <line x1="650" y1="445" x2="730" y2="310" stroke="#1f2937" stroke-width="2" stroke-dasharray="6 4"/>
+
+  <text x="290" y="240" font-size="14" font-family="Microsoft JhengHei, Arial">association</text>
+  <text x="290" y="380" font-size="14" font-family="Microsoft JhengHei, Arial">association</text>
+  <text x="290" y="525" font-size="14" font-family="Microsoft JhengHei, Arial">association</text>
+  <text x="680" y="165" font-size="14" font-family="Microsoft JhengHei, Arial">include</text>
+
+  <text x="320" y="610" font-size="15" font-family="Microsoft JhengHei, Arial">註：本期僅保留角色切換與假資料展示，不新增正式登入或資料庫。</text>
+</svg>

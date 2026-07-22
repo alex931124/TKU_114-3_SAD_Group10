@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 1100 700">
+  <rect width="1100" height="700" fill="#fff"/>
+  <text x="550" y="45" text-anchor="middle" font-size="26" font-family="Microsoft JhengHei, Arial" font-weight="700">AS-IS 現況流程</text>
+  <rect x="80" y="80" width="230" height="520" rx="12" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="195" y="115" text-anchor="middle" font-size="20" font-family="Microsoft JhengHei, Arial">宿舍學生</text>
+  <rect x="435" y="80" width="230" height="520" rx="12" fill="#fef3c7" stroke="#d97706"/>
+  <text x="550" y="115" text-anchor="middle" font-size="20" font-family="Microsoft JhengHei, Arial">宿舍管理員</text>
+  <rect x="790" y="80" width="230" height="520" rx="12" fill="#dcfce7" stroke="#15803d"/>
+  <text x="905" y="115" text-anchor="middle" font-size="20" font-family="Microsoft JhengHei, Arial">維修人員</text>
+
+  <ellipse cx="195" cy="180" rx="80" ry="38" fill="#ffffff" stroke="#1d4ed8"/><text x="195" y="187" text-anchor="middle" font-size="16">送出報修資訊</text>
+  <rect x="138" y="255" width="114" height="58" rx="10" fill="#ffffff" stroke="#1d4ed8"/><text x="195" y="293" text-anchor="middle" font-size="16">電話 / 訊息</text>
+  <rect x="480" y="255" width="120" height="58" rx="10" fill="#ffffff" stroke="#d97706"/><text x="540" y="293" text-anchor="middle" font-size="16">人工整理紀錄</text>
+  <path d="M195 218 L195 255" stroke="#1d4ed8" stroke-width="2" fill="none"/>
+  <path d="M252 285 L480 285" stroke="#1f2937" stroke-width="2" fill="none"/>
+  <text x="330" y="272" font-size="14">交接</text>
+  <rect x="470" y="355" width="160" height="62" rx="10" fill="#ffffff" stroke="#d97706"/><text x="550" y="392" text-anchor="middle" font-size="16">是否資料完整</text>
+  <path d="M550 417 L550 450" stroke="#d97706" stroke-width="2" fill="none"/>
+  <text x="560" y="465" font-size="14">否 → 回補資料</text>
+  <rect x="490" y="470" width="140" height="58" rx="10" fill="#ffffff" stroke="#d97706"/><text x="560" y="508" text-anchor="middle" font-size="16">派工</text>
+  <path d="M550 528 L550 570" stroke="#d97706" stroke-width="2" fill="none"/>
+  <rect x="845" y="470" width="120" height="58" rx="10" fill="#ffffff" stroke="#15803d"/><text x="905" y="508" text-anchor="middle" font-size="16">完成回報</text>
+  <path d="M630 500 L845 500" stroke="#1f2937" stroke-width="2" fill="none"/>
+  <text x="725" y="485" font-size="14">任務交接</text>
+
+  <text x="110" y="620" font-size="16" font-family="Microsoft JhengHei, Arial">痛點：資訊分散、人工整理、狀態不透明</text>
+</svg>
